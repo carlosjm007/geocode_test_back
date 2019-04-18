@@ -18,7 +18,7 @@ Se pretende monitorear la localización de usuarios utilizando dispositivos mixt
 Para lo anterior, se crea un servicio que sea capaz de almacenar, listar y eliminar usuarios, e incluso tambien lista aquellos usuarios cuya calidad de la información no es suficiente para dar con la ubicación del mismo.
 
 
-
+![alt text](https://github.com/carlosjm007/geocode_test_back/blob/master/Sin%20t%C3%ADtulo.png "aja")
 
 # Tarea programada
 
