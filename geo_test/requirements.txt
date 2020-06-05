@@ -3,7 +3,7 @@ certifi==2019.3.9
 cffi==1.12.2
 chardet==3.0.4
 cryptography==2.6.1
-Django==2.1.4
+Django==2.2.13
 django-background-tasks==1.2.0
 django-compat==1.0.15
 django-rest-knox==3.6.0
